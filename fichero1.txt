@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+Segunda línea de fichero1
+>>>>>>> b18ef418761e3a832e5d2a49ab21166c1321ddb7
